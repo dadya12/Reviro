@@ -29,7 +29,8 @@ API позволяет выполнять следующие операции:
 ## Запуск локально
 
 ### 1. Клонируйте репозиторий:
-git clone https://github.com/your-username/task-api.git
+git clone https://github.com/dadya12/Reviro.git (HTTPS)
+git clone git@github.com:dadya12/Reviro.git (SSH)
 cd simple_api
 
 ### 2. Создайте и активируйте виртуальное окружение:
